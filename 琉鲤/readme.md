@@ -162,7 +162,7 @@
 
    ![](https://github.com/ligths/-/blob/main/directory/1.jpg)
 
-![]()
+![](https://github.com/ligths/-/blob/master/5.jpg)
 
 说实话，我感觉我现在拥有的知识真的只是皮毛，想要精通掌握一门技术，还是学要我多加努力。
 
